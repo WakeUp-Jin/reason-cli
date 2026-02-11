@@ -3,6 +3,8 @@ node_modules/
 
 .claude/
 store/
+.tmp/
+.cursor/
 
 # Build outputs
 dist/
