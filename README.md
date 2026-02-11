@@ -73,7 +73,7 @@ Excalidraw 文件链接：[https://my.feishu.cn/file/J2X8bq9KooFgbcxzN4WcdTArnud
 
 👉 仓库链接：https://github.com/WakeUp-Jin/Practical-Guide-to-Context-Engineering
 
-👀 在线阅读链接：https://wakeup-jin.github.io/Practical-Guide-to-Context-Engineering/ReasonCode%E5%BC%80%E5%8F%91%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3/%E7%AC%AC%E4%B8%80%E7%AF%87%EF%BC%9A%E6%96%87%E4%BB%B6%E6%90%9C%E7%B4%A2%E5%B7%A5%E5%85%B7.html
+👀 在线阅读链接：https://wakeup-jin.github.io/Practical-Guide-to-Context-Engineering/
 
 ## 目录结构
 
